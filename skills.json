@@ -110,5 +110,13 @@
     {
         "name": "BitBucket",
         "icon": "assets/images/skills/bit.png"
+    },
+    {
+        "name": "Play Store",
+        "icon": "assets/images/skills/playstore.jpg"
+    },
+    {
+        "name": "App Store",
+        "icon": "assets/images/skills/appstore.png"
     }
 ]
