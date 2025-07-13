@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here already!",
+    "image": "portfolioimage",
+    "category": "basicweb",
+    "links": {
+      "view": "https://mharis404.github.io/Portfolio/",
+      "code": "https://github.com/mharis404/Portfolio/"
+    }
+  },
+  {
+    "name": "NEOM ERP",
+    "desc": "Developed an Enterprise Resource Planning (ERP) system for <a href=\"https://www.neom.com/en-us\" target=\"_blank\">NEOM</a>, integrating business processes and improving operational efficiency. Worked as a Senior Software Engineer, contributing to the design, development, and deployment of the system to streamline key organizational functions.",
+    "image": "neom_erp",
+    "category": "Enterprise Solutions",
+    "links": {
+      "view": "https://www.neom.com/en-us",
+      "code": "Code can't be viewed."
+    }
+  },
+  
+  {
+    "name": "ALBALAD",
+    "desc": "Contributed to GIS solutions for <a href=\"https://balad.com.sa/en/\" target=\"_blank\">Albalad</a>, enhancing spatial data analysis and urban planning. Worked as a Senior Software Engineer, building GIS applications for city infrastructure management.",
+    "image": "Albalad",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://balad.com.sa/en/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "SDAIA",
+    "desc": "Developed the Caller Location Tracking Service for <a href=\"https://sdaia.gov.sa/en/default.aspx\" target=\"_blank\">SDAIA</a>, utilizing location tracking technologies for real-time caller analysis. Contributed as a Senior Software Engineer to the solution's design and deployment.",
+    "image": "sdaia",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://sdaia.gov.sa/en/default.aspx",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "RCU",
+    "desc": "Developed multiple GIS projects for <a href=\"https://rcu.grcu.gov.sa/\" target=\"_blank\">RCU</a>, leveraging ArcGIS and ESRI GIS technologies for spatial data analysis. Worked as a Senior Software Engineer with <a href=\"https://www.linkedin.com/company/geotechoverseas/posts/?feedView=all\" target=\"_blank\">Geotech Overseas</a>.",
+    "image": "rcu",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://rcu.grcu.gov.sa/",
+      "code": "Code can't be viewed."
+    }
+  },  
+  
+  {
+    "name": "Ink",
+    "desc": "Digital Signage Software for Your Enterprise. A product of <a href=\"https://www.omnivex.com/\" target=\"_blank\">Omnivex</a>. <br>Worked on this project as a software engineer during my tenure with <a href=\"https://www.linkedin.com/company/intellyct/mycompany/\" target=\"_blank\">Intellyct (Pvt) Ltd.</a>.",
+    "image": "ink",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://omnivex.ink/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "Hprime",
+    "desc": "Prevocational Medical Training Management Software. <br> Worked on this project as a senior software engineer during my tenure with <a href=\"https://www.linkedin.com/company/nasfia/\" target=\"_blank\">Nasfia (Pvt) Ltd.</a>.",
+    "image": "hprime",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.hprime.com.au/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "lambkinz",
+    "desc": "lambkinz: Storytelling and learning platforms. <br> Worked on this project as a senior software engineer during my tenure with <a href=\"https://www.linkedin.com/company/nasfia/\" target=\"_blank\">Nasfia (Pvt) Ltd.</a>.",
+    "image": "lambkinz",
+    "category": "basicweb",
+    "links": {
+      "view": "https://lambkinz.pk/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "Techno Financials",
+    "desc": "Techno Financials - Modern ERP & HCM Solution in Pakistan. <br> Worked on this project as a Junior software engineer during my tenure with <a href=\"https://www.linkedin.com/company/intellyct/mycompany/\" target=\"_blank\">3techno (Pvt) Ltd.</a>.",
+    "image": "technofinancials",
+    "category": "Advance Web",
+    "links": {
+      "view": "https://3techno.com/techno-financials/",
+      "code": "Code can't be viewed."
+    }
+  }
+]
