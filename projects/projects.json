@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "n8n RAG Docker Desktop",
+    "desc": "A self-built pipeline that automates short-form video creation and publishing using n8n, custom agents, and AI moderation. Integrated with YouTube and Facebook Reels for seamless, platform-safe content delivery. <a href=\"https://www.youtube.com/@TensionsUnfolded\" target=\"_blank\">Youtube</a>.",
+    "image": "n8n",
+    "category": "docker",
+    "links": {
+      "view": "https://www.youtube.com/@TensionsUnfolded",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
     "name": "VPN Android App",
     "desc": "A Virtual Private Network secure Android Native app - NDA Signed. <br> Worked on this project as an associate Android Developer during my tenure with <a href=\"https://www.linkedin.com/company/puresquarecom/\" target=\"_blank\">PureSquare</a>.",
     "image": "frog",
