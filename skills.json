@@ -1,18 +1,18 @@
 [
     {
-        "name": "Java - Android",
+        "name": "Java",
         "icon": "assets/images/skills/java.png"
     },
     {
-        "name": "Kotlin - Android",
+        "name": "Kotlin",
         "icon": "assets/images/skills/kotlin.png"
     },
     {
-        "name": "React Native - Android, iOS",
+        "name": "React Native",
         "icon": "assets/images/skills/reactnative.png"
     },
     {
-        "name": "AWS SAA Certified",
+        "name": "AWS",
         "icon": "assets/images/skills/awssaa.png"
     },
     {
@@ -100,40 +100,32 @@
         "icon": "assets/images/skills/redux.png"
     },
     {
-        "name": "MobX",
-        "icon": "assets/images/skills/mssql.png"
-    },
-    {
         "name": "Zustand",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/zustand.png"
     },
     {
         "name": "AsyncStorage",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/async.png"
     },
     {
         "name": "MMKV",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/mmkv.png"
     },
     {
         "name": "Bloc",
-        "icon": "assets/images/skills/mssql.png"
-    },
-    {
-        "name": "Shared Preferences",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/bloc.png"
     },
     {
         "name": "Room",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/room.png"
     },
     {
         "name": "DataStore",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/datastore.png"
     },
     {
         "name": "Supabase",
-        "icon": "assets/images/skills/mssql.png"
+        "icon": "assets/images/skills/supabase.png"
     },
     {
         "name": "MongoDB",
