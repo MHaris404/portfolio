@@ -48,6 +48,14 @@
         "icon": "assets/images/skills/react.png"
     },
     {
+        "name": "Xamarin",
+        "icon": "assets/images/skills/xamarin.jpg"
+    },
+    {
+        "name": "Flutter",
+        "icon": "assets/images/skills/flutter.jpg"
+    },
+    {
         "name": ".NET Framework",
         "icon": "assets/images/skills/dot-net-core.png"
     },
@@ -60,11 +68,71 @@
         "icon": "assets/images/skills/telerik.png"
     },
     {
+        "name": "AntD",
+        "icon": "assets/images/skills/antd.png"
+    },
+    {
+        "name": "Native Base",
+        "icon": "assets/images/skills/nativebase.jpg"
+    },
+    {
+        "name": "React Native Paper",
+        "icon": "assets/images/skills/paper.jpg"
+    },
+    {
+        "name": "Material UI",
+        "icon": "assets/images/skills/material.png"
+    },
+    {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
     },
     {
         "name": "MsSQL",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "SQLite",
+        "icon": "assets/images/skills/sqlite.png"
+    },
+    {
+        "name": "Redux",
+        "icon": "assets/images/skills/redux.png"
+    },
+    {
+        "name": "MobX",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "Zustand",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "AsyncStorage",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "MMKV",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "Bloc",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "Shared Preferences",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "Room",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "DataStore",
+        "icon": "assets/images/skills/mssql.png"
+    },
+    {
+        "name": "Supabase",
         "icon": "assets/images/skills/mssql.png"
     },
     {
