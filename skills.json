@@ -44,8 +44,12 @@
         "icon": "assets/images/skills/csharp.png"
     },
     {
-        "name": "React",
+        "name": "React.js",
         "icon": "assets/images/skills/react.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "assets/images/skills/reactjs.png"
     },
     {
         "name": "Xamarin",

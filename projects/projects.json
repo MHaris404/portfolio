@@ -1,5 +1,15 @@
 [
   {
+    "name": "Squickle",
+    "desc": "Freelance react web app, Entity Resource Planning system involving Planning, multi-level Purchase Order Auhtorization, Procurement and Management system",
+    "image": "squicle",
+    "category": "reactwebapp",
+    "links": {
+      "view": "https://squicle-dashboard.vercel.app/login",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
     "name": "Portfolio Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here already!",
     "image": "portfolioimage",
@@ -13,7 +23,7 @@
     "name": "n8n RAG Docker Desktop",
     "desc": "A self-built pipeline that automates short-form video creation and publishing using n8n, custom agents, and AI moderation. Integrated with YouTube and Facebook Reels for seamless, platform-safe content delivery. <a href=\"https://www.youtube.com/@TensionsUnfolded\" target=\"_blank\">Youtube</a>.",
     "image": "n8n",
-    "category": "docker",
+    "category": "dockeragent",
     "links": {
       "view": "https://www.youtube.com/@TensionsUnfolded",
       "code": "Code can't be viewed."
@@ -36,6 +46,16 @@
     "category": "mobile_native",
     "links": {
       "view": "https://www.purevpn.com/",
+      "code": "Code can't be viewed."
+    }
+  },
+  {
+    "name": "Caary",
+    "desc": "Freelance React based web app, The Caary Business Mastercard® gives you complete control over spending and automates your expense management.",
+    "image": "caaryfintech",
+    "category": "reactwebapp",
+    "links": {
+      "view": "https://fintech-dashboard-bh.vercel.app/",
       "code": "Code can't be viewed."
     }
   },
