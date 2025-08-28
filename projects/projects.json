@@ -1,5 +1,15 @@
 [
   {
+    "name": "Nodejs-Mono-to-Micro-Architecture",
+    "desc": "This repository demonstrates the evolution of a Grocery Online Shopping App from a Monolithic Node.js architecture to multiple Microservices-based architectures. Each branch showcases a different architectural style, deployment approach, and technology integration. <br> Branches include: <ul><li>Monolithic Node.js (Express.js, MongoDB, JWT)</li><li>Microservices + Webhooks</li><li>Microservices + RabbitMQ with Docker & CI/CD</li><li>Microservices + RabbitMQ + Sentry monitoring</li></ul>",
+    "image": "nodejs_micro",
+    "category": "backend",
+    "links": {
+      "view": "https://github.com/mharis404/Nodejs-Mono-to-Micro-Architecure",
+      "code": "https://github.com/mharis404/Nodejs-Mono-to-Micro-Architecure"
+    }
+  },
+  {
     "name": "Squickle",
     "desc": "Freelance react web app, Entity Resource Planning system involving Planning, multi-level Purchase Order Auhtorization, Procurement and Management system",
     "image": "squicle",
