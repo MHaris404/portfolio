@@ -1,7 +1,17 @@
 [
   {
+    "name": "Mern_Mono_Docker_Stages",
+    "desc": "MERN Stact, Docker for both development and production environments",
+    "image": "nodejs_micro",
+    "category": "mern_backend_frontned_docker",
+    "links": {
+      "view": "https://github.com/MHaris404/mern-mono-docker-stages",
+      "code": "https://github.com/MHaris404/mern-mono-docker-stages"
+    }
+  },
+  {
     "name": "Nodejs-Mono-to-Micro-Architecture",
-    "desc": "Monolithic Node.js architecture to Microservices-based architecture. Webhooks, RabbitMQ, Docker, CI/CD, RabbitMQ, Sentry",
+    "desc": "Microservices-based architecture. Webhooks, RabbitMQ, Docker, CI/CD, RabbitMQ, Sentry",
     "image": "nodejs_micro",
     "category": "backend",
     "links": {
@@ -13,7 +23,7 @@
     "name": "Squickle",
     "desc": "Freelance react web app, Entity Resource Planning system involving Planning, multi-level Purchase Order Auhtorization, Procurement and Management system",
     "image": "squicle",
-    "category": "reactwebapp",
+    "category": "reactwebapp_frontend",
     "links": {
       "view": "https://squicle-dashboard.vercel.app/login",
       "code": "Code can't be viewed."
@@ -33,7 +43,7 @@
     "name": "n8n RAG Docker Desktop",
     "desc": "A self-built pipeline that automates short-form video creation and publishing using n8n, custom agents, and AI moderation. Integrated with YouTube and Facebook Reels for seamless, platform-safe content delivery. <a href=\"https://www.youtube.com/@TensionsUnfolded\" target=\"_blank\">Youtube</a>.",
     "image": "n8n",
-    "category": "dockeragent",
+    "category": "docker_agent",
     "links": {
       "view": "https://www.youtube.com/@TensionsUnfolded",
       "code": "Code can't be viewed."
